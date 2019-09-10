@@ -1,0 +1,77 @@
+[33mcommit c7c572d0faa5a2bbc713c408527ddeccf3016f8d[m[33m ([m[1;36mHEAD -> [m[1;32mupdate-users[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m, [m[1;32madvanced-login[m[33m)[m
+Author: Trung Anh <trunganhbtc@gmail.com>
+Date:   Fri Aug 30 12:01:45 2019 +0700
+
+    Implement advanced login
+
+[33mcommit bb09c2bce33c8c82c30f655624f99159025b1c3c[m[33m ([m[1;32mbasic-login[m[33m)[m
+Author: Trung Anh <trunganhbtc@gmail.com>
+Date:   Mon Aug 26 15:57:32 2019 +0700
+
+    Implement basic login
+
+[33mcommit f78d4355d13ea689c25b2fb71fc78b8c865c87d3[m
+Author: Trung Anh <trunganhbtc@gmail.com>
+Date:   Fri Aug 23 09:45:23 2019 +0700
+
+    Use SSL and the Puma webserver in production
+
+[33mcommit f335ce1d59bea3f6343b1affc61f10ae4095c209[m[33m ([m[1;32msign-up[m[33m)[m
+Author: Trung Anh <trunganhbtc@gmail.com>
+Date:   Thu Aug 22 17:28:27 2019 +0700
+
+    Finish user signup
+
+[33mcommit fa16449ed8580f2163782c233cb298dc42f779d4[m[33m ([m[1;32mmodel-users[m[33m)[m
+Author: Trung Anh <trunganhbtc@gmail.com>
+Date:   Wed Aug 21 17:05:57 2019 +0700
+
+    Make a basic User model (including secure passwords)
+
+[33mcommit 62c5b601ee001277501e6329f4a3659a2e1c9917[m[33m ([m[1;31morigin/fill-in-layout[m[33m, [m[1;32mfill-in-layout[m[33m)[m
+Author: Trung Anh <trunganhbtc@gmail.com>
+Date:   Tue Aug 20 17:10:45 2019 +0700
+
+    Finish layout and routes
+
+[33mcommit 49b5cce9015754562baaf285f3d0dd8ee689dbe8[m
+Author: Trung Anh <trunganhbtc@gmail.com>
+Date:   Tue Aug 20 13:40:12 2019 +0700
+
+    Complete advanced setup
+
+[33mcommit 70763067721e4964ab3a743945eb7e64f5f08c8b[m
+Author: Trung Anh <trunganhbtc@gmail.com>
+Date:   Tue Aug 20 11:46:20 2019 +0700
+
+    Improve the README
+
+[33mcommit 4c88214ce371df156027e8805ef0eab8f4095347[m
+Author: Trung Anh <trunganhbtc@gmail.com>
+Date:   Tue Aug 20 11:45:11 2019 +0700
+
+    Initialize repository
+
+[33mcommit ea4b6e4d3e302018330943a273faada0bfca5c75[m
+Author: Trung Anh <trunganhbtc@gmail.com>
+Date:   Tue Aug 20 11:37:04 2019 +0700
+
+    Finish toy app
+
+[33mcommit cfdd07d0d055eefd9298f7ee11d4ddad4e9f1c48[m
+Author: Trung Anh <trunganhbtc@gmail.com>
+Date:   Tue Aug 20 11:20:53 2019 +0700
+
+    Improve the README file
+
+[33mcommit 91a71136f446eef5161dcee209b4f2ce34ef5a83[m
+Author: Trung Anh <trunganhbtc@gmail.com>
+Date:   Tue Aug 20 11:18:21 2019 +0700
+
+    Improve the README file
+
+[33mcommit 0be198b0379541a85213af11ca8faf1f71f7d283[m
+Author: Trung Anh <trunganhbtc@gmail.com>
+Date:   Tue Aug 20 11:12:14 2019 +0700
+
+    Initialize repository
